@@ -52,4 +52,5 @@ N'hésitez pas à me contacter si vous souhaitez discuter de projets intéressan
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lynia-momo-202&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="lynia-momo-202" /></p>
 <br>
+<p><img align="center" src="https://streak-stats.demolab.com?user=lynia-momo-202&count_private=true&theme=algolia&border_radius=20" alt="lynia-momo-202" /></p>
 
